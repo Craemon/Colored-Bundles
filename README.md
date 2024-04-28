@@ -1,2 +1,2 @@
-# colored-bundles
+# Colored-Bundles
 Colorcode your bundles like shulkerboxes!
