@@ -1,8 +1,6 @@
 # Colored-Bundles
 Colorcode your bundles like shulkerboxes!
 
-**SUPPORT FOR 1.20.5!!!**
-
 Allows you to apply dye to your bundles when crafting them!
 
 ![crafting](https://github.com/Craemon/Colored-Bundles-RP/assets/121398546/cf15e3fd-c0e7-43c4-842a-b27d8a43acb1)
