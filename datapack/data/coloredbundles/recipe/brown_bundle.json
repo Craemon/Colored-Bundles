@@ -1,0 +1,27 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "SRS",
+        "RDR",
+        "RRR"
+    ],
+    "key": {
+        "S": {
+            "item": "minecraft:string"
+        },
+        "R": {
+            "item": "minecraft:rabbit_hide"
+        },
+        "D": {
+            "item": "minecraft:brown_dye"
+        }
+    },
+    "result": {
+	"count": 1,
+	"id": "minecraft:bundle",
+    	"components":{
+      		"custom_model_data":50106,
+      		"custom_name":"[{'text':'Brown Bundle','italic':false,'color':white}]"
+	}
+    }
+}
