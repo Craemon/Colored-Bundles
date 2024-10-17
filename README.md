@@ -1,3 +1,5 @@
+## Pack has been archived since Colored Bundles have been added to the base game
+
 # Colored-Bundles
 Colorcode your bundles like shulkerboxes!
 
